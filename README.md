@@ -1,6 +1,6 @@
 # DevOps Learning Handbook
 
-Notes for our DevOps journey.
+A handbook for hands-on DevOps.
 
 ## Contents
 - [Linux](linux-notes.md)
